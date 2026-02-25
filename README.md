@@ -25,7 +25,7 @@ Hospitality businesses face challenges such as fluctuating occupancy rates, seas
 - Detected high cancellation periods impacting revenue
 - Provided insights to improve pricing and capacity planning
 
-##📁 Files in This Repository
+## 📁 Files in This Repository
 Hospitality_Analytics_PBI
 Hospitality Analysis.pptx
 Hospitality_Analysis_Excel.xlsx
